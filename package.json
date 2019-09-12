@@ -1,0 +1,14 @@
+{
+  "name": "mecatronica85",
+  "version": "1.0.0",
+  "description": "site web for mechatronics cbtis85",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mechatronic"
+  ],
+  "author": "josef leyva",
+  "license": "MIT"
+}
